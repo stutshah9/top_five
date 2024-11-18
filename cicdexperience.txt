@@ -9,3 +9,4 @@ Isha Devgan
 I have some experience with CI/CD from my internship. We used a ci cd pipeline that would have built in mutation and fuzzy testing. Other than my internship, this material is new to me
 
 Michael Kopczynski
+I have no experience.
