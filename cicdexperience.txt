@@ -1,0 +1,11 @@
+Stuti Shah
+I have no experience.
+
+Anushka Trivedi
+I don't really have much experience with CI/CD directly. During my internship I saw my coworkers work with CI/CD when deploying applications, but I did
+not work on anything directly. 
+
+Isha Devgan
+I have some experience with CI/CD from my internship. We used a ci cd pipeline that would have built in mutation and fuzzy testing. Other than my internship, this material is new to me
+
+Michael Kopczynski
